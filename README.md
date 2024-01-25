@@ -1,6 +1,5 @@
 # Diabetes-Prediction-With-Deployment
 
-# Diabetes Prediction Project
 
 This project focuses on predicting diabetes using machine learning techniques. The model predicts whether a person is diabetic or non-diabetic based on various input features. The project includes both Flask and Streamlit implementations for different deployment options.
 
@@ -23,7 +22,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-Visit [http://localhost:5000](http://localhost:5000) in your web browser.
+Visit the provided local URL in your web browser.
 
 ### OR
 
