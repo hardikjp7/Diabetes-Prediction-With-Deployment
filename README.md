@@ -1,7 +1,10 @@
 # Diabetes-Prediction-With-Deployment
 
 
-This project focuses on predicting diabetes using machine learning techniques. The model predicts whether a person is diabetic or non-diabetic based on various input features. The project includes both Flask and Streamlit implementations for different deployment options.
+This project focuses on predicting diabetes using machine learning techniques. The model predicts whether a person is diabetic or non-diabetic based on various input features. The project includes both Flask and Streamlit implementations for different deployment options. <br>
+
+Deployed on [streamlit ](https://d-pred.streamlit.app/)
+
 
 ## Clone and Run the Project
 
