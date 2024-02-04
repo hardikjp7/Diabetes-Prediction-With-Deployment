@@ -6,7 +6,6 @@ This project focuses on predicting diabetes using machine learning techniques. T
 Deployed on [streamlit ](https://d-pred.streamlit.app/)
 
 
-
 ## Clone and Run the Project
 
 Follow these steps to clone and run the project locally:
