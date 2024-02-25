@@ -13,7 +13,7 @@ Follow these steps to clone and run the project locally:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/hardikjp7/Diabetes-Prediction-With-Deployment.git
-cd diabetes-prediction
+cd Diabetes-Prediction-With-Deployment
 ```
 
 ### 2. Install Dependencies
